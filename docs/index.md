@@ -1,3 +1,5 @@
-# Pages Trial
+---
+title: Pages Trial
+---
 
 Hello, GitHub Pages
